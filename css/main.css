@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #505cb3;
+    color: darkred;
 }
 a:hover {
     text-decoration: underline;
@@ -23,18 +23,18 @@ h1 {
     font-size: 2.0em;
     line-height: 3.0em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #393e63;
+    color: darkred;
 }
 h2 {
     font-size: 1.6em;
     line-height: 1.6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #393e63;
+    color: darkred;
 }
 p {
     font-size: 1.2em;
     line-height: 1.2em;
-    color: #333;
+    color: darkred;
 }
 footer {
     border-top: 2px solid #d5d5d5;
