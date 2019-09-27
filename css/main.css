@@ -36,6 +36,12 @@ p {
     line-height: 1.2em;
     color: #202020;
 }
+p.caption {
+    font-size: 1.2em;
+    line-height: 1.2em;
+    color: #202020;
+    text-decoration: underline;
+}
 footer {
     border-top: 2px solid #d5d5d5;
     font-size: .8em;
